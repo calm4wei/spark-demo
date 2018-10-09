@@ -22,7 +22,7 @@ object RDDRelationDemo {
 
     //    val options = Map[String, String](
     //      "host" -> "dev60",
-    //      "database" -> "hyjj",
+    //      "database" -> "hyjj"eee,
     //      "collection" -> "ELPModel"
     //    )
 

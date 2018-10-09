@@ -44,7 +44,7 @@ object HBaseTest {
 
     val tableName = "demo01"
     // createSchemaTables(conf, "demo01")
-    // fakeData(conf, tableName, 10)
+     fakeData(conf, tableName, 10)
     readData(sc, conf)
 
 
