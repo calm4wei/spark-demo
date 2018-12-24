@@ -1,0 +1,4 @@
+#customID,transactionID,purchaseDate,amount
+c001,t001,2018-12-24,122
+c002,t111,2018-12-24,90
+c003,t112,2018-12-24,89
